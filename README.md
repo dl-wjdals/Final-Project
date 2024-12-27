@@ -45,6 +45,6 @@ Spring Boot를 이용한 게시판 구현
 - 데이터베이스 연동
   
 # 산출물
-(https://github.com/dl-wjdals/Final-Project/issues/1)](https://github.com/dl-wjdals/Final-Project/issues/1)
+https://github.com/dl-wjdals/Final-Project/issues/1
 
 
